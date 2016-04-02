@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<link rel="stylesheet" href="C:\Users\GWCStudent\Documents\style.css" type="text/css">
+		<title>Welcome to Bloddy Buddies</title>
+	</head>
+	
 	<body>
 	<p>Hello World!</p>
 	</body>
